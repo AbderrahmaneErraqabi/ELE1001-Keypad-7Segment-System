@@ -1,5 +1,5 @@
 # ELE1001 BCD Keypad Display 
-
+ 
 ## Overview
 
 This project implements an embedded system that reads a 4×4 matrix keypad and drives a two digit BCD based display using an Arduino. The system converts user input into stable BCD signals for tens and units digits and generates control signals used by external logic modules.
